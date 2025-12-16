@@ -11,12 +11,11 @@
 </details>
 
 ## Krav
-Jag vill veta vilka projekt som Vinnova beviljat medel. 
+Jag vill veta vilka projekt som Vinnova har beviljat medel till.
 
-Informationen finns att nå via Vinnovas projektdatabas
+Informationen finns tillgänglig via Vinnovas projektdatabas
 
 [https://data.vinnova.se/api/projekt/](https://data.vinnova.se/api/projekt/)
-
 
 
 ```csv
@@ -37,7 +36,6 @@ Detta är vad som kallas [Vibecodning](https://www.advania.se/ordforradet/vibe-c
 Istället för att hålla på med design och implementation enligt den gamla skolan, 
 
 skriver man direkt till CHAT-GPT eller något annat liknande AI-verktyg. 
-
 
 
 ```prompt
@@ -103,6 +101,9 @@ På senare tid ställer Vinnova krav på lärdomsrapporter, det vore bra om varj
 #### Koppling till patent 
 Man kan tycka vad man vill om patent, men till skillnad från rapporter som har en tendens att försvinna, så kommer ett patent finnas tillgängligt tills dess att solen brinner upp. 
 
+PAtLink beskriver sambandet mellan patent och en organisation. Patentuppgifterna är hämtade från PATSTAT, medan organisationsnumren är hämtade från Serrano-databasen. 
+
+[PAtLink](https://www.hhs.se/en/houseoffinance/data-center/patlink/) 
 
 
 
